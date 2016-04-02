@@ -1,0 +1,11 @@
+com\kb\dao\UserDAOImpl.class
+com\kb\model\User.class
+com\kb\model\Permission.class
+com\kb\model\CustomUser.class
+com\kb\dao\UserDAO.class
+com\kb\service\CustomUserService.class
+com\kb\services\UserService.class
+com\kb\authentication\provider\CustomAuthenticationProvider.class
+com\kb\authentication\CustomAuthenticationProvider.class
+com\kb\model\Role.class
+com\kb\controller\HomeController.class

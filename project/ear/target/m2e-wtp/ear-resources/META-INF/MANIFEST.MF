@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: ejbs-1.0.jar primary-source-1.0.jar logging-1.0.jar
+Build-Jdk: 1.7.0_79
+Built-By: Afshan
+Created-By: Maven Integration for Eclipse
+
